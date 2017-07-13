@@ -6,9 +6,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
-
 public class Fragment extends android.support.v4.app.Fragment {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -20,7 +17,6 @@ public class Fragment extends android.support.v4.app.Fragment {
     private String name;
 
     public Fragment() {
-        // Required empty public constructor
     }
 
     /**
